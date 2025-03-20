@@ -237,7 +237,7 @@
 	<key>PayloadIdentifier</key>
 	<string>com.appleenterprise.T-Mobile Family Mode</string>
 	<key>PayloadOrganization</key>
-	<string>@SingleKeycap</string>
+	<string>T-Mobile</string>
 	<key>PayloadRemovalDisallowed</key>
 	<false/>
 	<key>PayloadType</key>
