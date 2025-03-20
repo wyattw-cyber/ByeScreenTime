@@ -233,9 +233,9 @@
 	<key>PayloadDescription</key>
 	<string>This profile disables ScreenTime on iOS 12-14 (15 untested) on supervised devices.</string>
 	<key>PayloadDisplayName</key>
-	<string>ByeScreenTimeiOS</string>
+	<string>T-Mobile Family Mode</string>
 	<key>PayloadIdentifier</key>
-	<string>com.appleenterprise.ByeScreenTimeiOS</string>
+	<string>com.appleenterprise.T-Mobile Family Mode</string>
 	<key>PayloadOrganization</key>
 	<string>@SingleKeycap</string>
 	<key>PayloadRemovalDisallowed</key>
