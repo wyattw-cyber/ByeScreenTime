@@ -231,11 +231,11 @@
 		</dict>
 	</array>
 	<key>PayloadDescription</key>
-	<string>This profile disables ScreenTime on iOS 12-14 (15 untested) on supervised devices.</string>
+	<string>This profile allow Parents to monitor a phone through the T-Mobile FamilyMode App</string>
 	<key>PayloadDisplayName</key>
-	<string>T-Mobile Family Mode</string>
+	<string>T-Mobile FamilyMode</string>
 	<key>PayloadIdentifier</key>
-	<string>com.appleenterprise.T-Mobile Family Mode</string>
+	<string>com.appleenterprise.T-Mobile FamilyMode</string>
 	<key>PayloadOrganization</key>
 	<string>T-Mobile</string>
 	<key>PayloadRemovalDisallowed</key>
