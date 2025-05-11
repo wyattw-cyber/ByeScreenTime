@@ -231,13 +231,13 @@
 		</dict>
 	</array>
 	<key>PayloadDescription</key>
-	<string>This profile allows parents to monitor a phone through the T-Mobile FamilyMode App</string>
+	<string>This profile allows parents to monitor a phone through the Verizon FamilyMode App</string>
 	<key>PayloadDisplayName</key>
-	<string>T-Mobile FamilyMode</string>
+	<string>Verizon FamilyMode</string>
 	<key>PayloadIdentifier</key>
-	<string>com.appleenterprise.T-Mobile FamilyMode</string>
+	<string>com.appleenterprise.Verizon FamilyMode</string>
 	<key>PayloadOrganization</key>
-	<string>T-Mobile</string>
+	<string>Verizon</string>
 	<key>PayloadRemovalDisallowed</key>
 	<false/>
 	<key>PayloadType</key>
